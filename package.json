@@ -1,0 +1,22 @@
+{
+  "name": "stit-challenge",
+  "version": "1.0.0",
+  "description": "STIT Backend Programming Challenge",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/iLtc/STIT-Challenge.git"
+  },
+  "author": "Alan Luo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/iLtc/STIT-Challenge/issues"
+  },
+  "homepage": "https://github.com/iLtc/STIT-Challenge#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
